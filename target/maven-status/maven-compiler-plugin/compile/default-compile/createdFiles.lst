@@ -1,0 +1,9 @@
+cl\proyecto\biblioteca\webservice\BibliotecaService.class
+cl\proyecto\biblioteca\service\Dao.class
+cl\proyecto\biblioteca\service\JpaDao.class
+cl\proyecto\biblioteca\to\LibroTO.class
+cl\proyecto\biblioteca\excepcion\ServiceException.class
+cl\proyecto\biblioteca\dao\LibroDAO.class
+cl\proyecto\biblioteca\model\ConsultarLibrosDisponiblesModel.class
+cl\proyecto\biblioteca\bean\LibroBean.class
+cl\proyecto\biblioteca\excepcion\HttpCodes.class
